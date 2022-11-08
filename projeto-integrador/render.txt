@@ -1,0 +1,5 @@
+banco de dados 
+postgres://db_projetointegrador_3qke_user:pkqIWgkQzOI2dZSBwBx38YqvWT1dW0dR@dpg-cdl4gc9gp3jvpk7kpe3g-a.oregon-postgres.render.com/db_projetointegrador_3qke
+
+senha
+pkqIWgkQzOI2dZSBwBx38YqvWT1dW0dR
